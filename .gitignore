@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+overlay_settings.json
+overlay_settings.json.tmp
